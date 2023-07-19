@@ -1,5 +1,5 @@
 # Webpage News Translation using GPT
-In this kernel, I will crawl new contents from [vnexpress.net/tin-tuc-24h](vnexpress.net/tin-tuc-24h) by using Selenium. and use OpenAI API to get engine for translating. After all, the translated content will be output as pdf format.
+In this kernel, I will crawl new contents from [vnexpress.net/tin-tuc-24h](https://vnexpress.net/tin-tuc-24h) by using Selenium. and use OpenAI API to get engine for translating. After all, the translated content will be output as pdf format.
 
 # Installation Requirement
 To run this kernel, you must do the following tasks:
