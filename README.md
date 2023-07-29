@@ -10,4 +10,4 @@ To run this kernel, you must do the following tasks:
 
 
 # Running kernel
-Using console to run **main.py**. Program require input **N** for the number of contents wanted to crawl, and the name of language wanted to translate from Vietnamese
+Using console to run **main.py**. Program require input **N** for the number of contents wanted to crawl, and the name of language wanted to translate from Vietnamese. Remember to fill your OpenAI's API before running kernel.
